@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AMazeByMarc</string>
+    <string name="welcome">Welcome to the Maze</string>
+    <string name="size">Maze Skill Level: 0</string>
+    <string name="explore">EXPLORE</string>
+    <string name="revisit">REVISIT</string>
+    <string name="generate">GENERATE</string>
+    <string name="mazegenerating">Maze is Generating....</string>
+    <string name="alduinlose">Alduin found You....</string>
+    <string name="alduinwon">You found Alduin....</string>
+    <string-array name="builder">
+        <item>DFS</item>
+        <item>Eller</item>
+        <item>Prim</item>
+    </string-array>
+    <string-array name="driver">
+        <item>Wizard</item>
+        <item>Pledge</item>
+        <item>WallFollower</item>
+        <item>Manual</item>
+    </string-array>
+</resources>
